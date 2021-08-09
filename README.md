@@ -1,3 +1,4 @@
+![LOGO_20210704124547](https://user-images.githubusercontent.com/88636214/128787626-0929cad7-9376-45b8-90df-f8d1067a7749.png)
 ## FNF-Colored-Sprites
 
 Hola como estan?
@@ -27,3 +28,5 @@ CREADORES:
 • Creador del Kade Engine "KadeDev"
 
 • Creador del Kade Engine para Android "ZackGamerz"
+
+![AMOGUS_20210729083824](https://user-images.githubusercontent.com/88636214/128787710-3de8118f-8bfb-4a94-9ba6-5925dd4e8374.png)
